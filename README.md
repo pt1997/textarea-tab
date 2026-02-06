@@ -2,5 +2,5 @@
 
 - To use this place this file somewhere where your browser can access it, for example on your disk in your downloads folder
   - you could also use https://pt1997.github.io/textarea-tab/textarea.html
-- open is using file:/// and the path to the file
+- open it using file:/// and the path to the file
 - bookmark it and make it easily openable, for example by setting a keyword
